@@ -1,7 +1,7 @@
 //your JS code here. If required.
-let student{
+const student{
 	name:"muskan"
-}
+};
 Object.prototype.getKeys = function () {
   return Object.keys(this);
 };
